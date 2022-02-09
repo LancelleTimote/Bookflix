@@ -1,0 +1,22 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    nav {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        ul {
+            display: flex;
+            li {
+                margin: 0 50px;
+                font-size: 20px;
+            }
+        }
+        .icon {
+            width: 25px;
+        }
+        .bell {
+            margin: 0 20px 0 30px;
+        }
+    }
+}

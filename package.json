@@ -1,0 +1,11 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "description": "Site Bookflix",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:css/style.css" 
+  },
+  "author": "Émilie Caille",
+  "license": "ISC"
+}

@@ -1,0 +1,22 @@
+.newBook {
+    h1 {
+        font-size: 35px;
+        margin: 35px 85px 15px 85px;
+    }
+    &--block {
+        &--list {
+            display: flex;
+            flex-wrap: wrap;
+            margin: auto;
+            justify-content: center;
+            max-width: 80em;
+            img {
+                max-width: 15em;
+                margin: auto;
+                padding: 15px;
+                display: flex;
+                justify-content: center;
+            }
+        }
+    }
+}
