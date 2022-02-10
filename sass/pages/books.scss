@@ -1,0 +1,17 @@
+.bookPage {
+    margin-bottom: 30px;
+    h1 {
+        text-align: center;
+    }
+}
+
+@media (max-width: 576px) {
+    .bookPage {
+        h1 {
+            font-size: 30px;
+        }
+        img {
+            width: 17em;
+        }
+    }
+}

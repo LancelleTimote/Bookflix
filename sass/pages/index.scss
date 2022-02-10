@@ -1,5 +1,6 @@
 .newBook {
     h1 {
+        text-align: center;
         font-size: 35px;
         margin: 35px 85px 15px 85px;
     }
@@ -18,5 +19,11 @@
                 justify-content: center;
             }
         }
+    }
+}
+
+@media (max-width: 576px) {
+    .newBook--block--list {
+        padding: 0;
     }
 }
