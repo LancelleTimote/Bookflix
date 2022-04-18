@@ -46,7 +46,7 @@ Le site doit être aussi totalement responsive pour pouvoir être consulté auss
 
 ## :checkered_flag: 3. Objectifs du projet <a name = "objectifs_projet"></a>
 
-Répondre à une demande dans un temps limité, tout en respectant les bonnes pratiques et nomenclatures.
+Répondre à une demande en développement web, dans un temps limité, tout en respectant les bonnes pratiques et nomenclatures.
 
 ## :computer: 4. Technologies utilisées <a name = "technologies_utilisees"></a>
 
